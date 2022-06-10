@@ -2,6 +2,10 @@
 ## 【Update】the script of analyzing the connection between timeout and maxDepth
 
 * The files OxfordAnalyse.txt and BioPortalAnalyse.txt are the meta data. Run the script main.py and get the result of the Table 3 in our paper.
+
+## 【Update】the statistics of Oxford-ISG & BioPortal
+* showed in the Data section in README
+
 ## Welcome
 * Welcome to this site and thanks for your interest in trying out our uniform interpolation (UI) tool and logical difference (UI-Diff) tool. Both tools are implemented in Java using the **OWL API**, so to get them work, first make sure you have JDK/JRE installed on your machine.
 * Your feedbacks are always welcome!
